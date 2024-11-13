@@ -27,3 +27,4 @@ C:\Users\zakst\ASP.Net Projects\ZakStanyer\obj\Debug\net8.0\refint\ZakStanyer.dl
 C:\Users\zakst\ASP.Net Projects\ZakStanyer\obj\Debug\net8.0\ZakStanyer.pdb
 C:\Users\zakst\ASP.Net Projects\ZakStanyer\obj\Debug\net8.0\ZakStanyer.genruntimeconfig.cache
 C:\Users\zakst\ASP.Net Projects\ZakStanyer\obj\Debug\net8.0\ref\ZakStanyer.dll
+C:\Users\zakst\ASP.Net Projects\ZakStanyer\obj\Debug\net8.0\ZakStanyer.sourcelink.json
